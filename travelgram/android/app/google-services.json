@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033329896708",
+    "project_id": "travelgram-1f630",
+    "storage_bucket": "travelgram-1f630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033329896708:android:cac3fd27529e5688bff451",
+        "android_client_info": {
+          "package_name": "com.example.travelgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033329896708-38o4du5lnrk05gvru799m5cujrgs515h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerDOS3J0JKkQcptMv-0Z5hpQXt6tBAUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033329896708-38o4du5lnrk05gvru799m5cujrgs515h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
